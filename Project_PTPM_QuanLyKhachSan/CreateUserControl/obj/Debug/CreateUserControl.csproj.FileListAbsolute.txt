@@ -1,0 +1,5 @@
+E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\CreateUserControl\obj\Debug\CreateUserControl.csprojResolveAssemblyReference.cache
+E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\CreateUserControl\bin\Debug\CreateUserControl.dll
+E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\CreateUserControl\bin\Debug\CreateUserControl.pdb
+E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\CreateUserControl\obj\Debug\CreateUserControl.dll
+E:\CODE\PhatTrienPM\DA_QLKhachSan_Lam_Duong\QuanLyKhachSan\Project_PTPM_QuanLyKhachSan\CreateUserControl\obj\Debug\CreateUserControl.pdb
